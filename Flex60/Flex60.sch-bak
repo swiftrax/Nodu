@@ -111,7 +111,7 @@ F 1 "BAV70" H 1275 1001 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 1275 875 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 1275 875 50  0001 C CNN
 	1    1275 875 
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push K_100
@@ -144,7 +144,7 @@ F 1 "BAV70" H 1275 1576 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 1275 1450 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 1275 1450 50  0001 C CNN
 	1    1275 1450
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push K_200
@@ -177,7 +177,7 @@ F 1 "BAV70" H 1275 2151 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 1275 2025 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 1275 2025 50  0001 C CNN
 	1    1275 2025
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push K_300
@@ -210,7 +210,7 @@ F 1 "BAV70" H 1275 2726 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 1275 2600 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 1275 2600 50  0001 C CNN
 	1    1275 2600
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push K_400
@@ -243,7 +243,7 @@ F 1 "BAV70" H 1275 3301 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 1275 3175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 1275 3175 50  0001 C CNN
 	1    1275 3175
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push K_2
@@ -276,7 +276,7 @@ F 1 "BAV70" H 2800 1001 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 2800 875 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 2800 875 50  0001 C CNN
 	1    2800 875 
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push K_102
@@ -309,7 +309,7 @@ F 1 "BAV70" H 2800 1576 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 2800 1450 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 2800 1450 50  0001 C CNN
 	1    2800 1450
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push K_202
@@ -342,7 +342,7 @@ F 1 "BAV70" H 2800 2151 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 2800 2025 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 2800 2025 50  0001 C CNN
 	1    2800 2025
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push K_302
@@ -375,7 +375,7 @@ F 1 "BAV70" H 2800 2726 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 2800 2600 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 2800 2600 50  0001 C CNN
 	1    2800 2600
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push K_402
@@ -397,7 +397,7 @@ F 1 "BAV70" H 2800 3301 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 2800 3175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 2800 3175 50  0001 C CNN
 	1    2800 3175
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	2800 2225 1275 2225
@@ -479,7 +479,7 @@ F 1 "BAV70" H 4325 1001 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 4325 875 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 4325 875 50  0001 C CNN
 	1    4325 875 
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push K_104
@@ -512,7 +512,7 @@ F 1 "BAV70" H 4325 1576 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 4325 1450 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 4325 1450 50  0001 C CNN
 	1    4325 1450
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push K_204
@@ -545,7 +545,7 @@ F 1 "BAV70" H 4325 2151 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 4325 2025 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 4325 2025 50  0001 C CNN
 	1    4325 2025
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push K_304
@@ -578,7 +578,7 @@ F 1 "BAV70" H 4325 2726 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 4325 2600 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 4325 2600 50  0001 C CNN
 	1    4325 2600
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	4325 2225 2800 2225
@@ -635,7 +635,7 @@ F 1 "BAV70" H 5850 1001 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 5850 875 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 5850 875 50  0001 C CNN
 	1    5850 875 
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push K_106
@@ -668,7 +668,7 @@ F 1 "BAV70" H 5850 1576 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 5850 1450 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 5850 1450 50  0001 C CNN
 	1    5850 1450
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push K_206
@@ -701,7 +701,7 @@ F 1 "BAV70" H 5850 2151 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 5850 2025 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 5850 2025 50  0001 C CNN
 	1    5850 2025
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push K_306
@@ -734,7 +734,7 @@ F 1 "BAV70" H 5850 2726 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 5850 2600 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 5850 2600 50  0001 C CNN
 	1    5850 2600
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push K_406
@@ -745,17 +745,6 @@ F 1 "KC_SPC" H 5350 3369 50  0000 C CNN
 F 2 "MX_Only:MXOnly-6.25U-ReversedStabilizers-NoLED" H 5350 3375 50  0001 C CNN
 F 3 "~" H 5350 3375 50  0001 C CNN
 	1    5350 3175
-	1    0    0    -1  
-$EndComp
-$Comp
-L Diode:BAV70 D31
-U 1 1 5FD7F567
-P 5850 3175
-F 0 "D31" H 5850 3392 50  0000 C CNN
-F 1 "BAV70" H 5850 3301 50  0000 C CNN
-F 2 "Custom_Footprints:SOT-23_Annotated" H 5850 3175 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 5850 3175 50  0001 C CNN
-	1    5850 3175
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -816,7 +805,7 @@ F 1 "BAV70" H 7375 1001 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 7375 875 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 7375 875 50  0001 C CNN
 	1    7375 875 
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push K_108
@@ -849,7 +838,7 @@ F 1 "BAV70" H 7375 1576 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 7375 1450 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 7375 1450 50  0001 C CNN
 	1    7375 1450
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push K_208
@@ -882,7 +871,7 @@ F 1 "BAV70" H 7375 2151 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 7375 2025 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 7375 2025 50  0001 C CNN
 	1    7375 2025
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push K_308
@@ -915,7 +904,7 @@ F 1 "BAV70" H 7375 2726 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 7375 2600 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 7375 2600 50  0001 C CNN
 	1    7375 2600
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push K_408
@@ -948,14 +937,12 @@ F 1 "BAV70" H 7375 3301 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 7375 3175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 7375 3175 50  0001 C CNN
 	1    7375 3175
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	7375 2225 5850 2225
 Wire Wire Line
 	7375 2800 5850 2800
-Wire Wire Line
-	7375 3375 5850 3375
 Wire Wire Line
 	7375 1650 5850 1650
 Wire Wire Line
@@ -1013,7 +1000,7 @@ F 1 "BAV70" H 8900 1001 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 8900 875 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 8900 875 50  0001 C CNN
 	1    8900 875 
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push K_110
@@ -1046,7 +1033,7 @@ F 1 "BAV70" H 8900 1576 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 8900 1450 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 8900 1450 50  0001 C CNN
 	1    8900 1450
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push K_210
@@ -1079,7 +1066,7 @@ F 1 "BAV70" H 8900 2151 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 8900 2025 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 8900 2025 50  0001 C CNN
 	1    8900 2025
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push K_310
@@ -1112,7 +1099,7 @@ F 1 "BAV70" H 8900 2726 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 8900 2600 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 8900 2600 50  0001 C CNN
 	1    8900 2600
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push K_410
@@ -1145,7 +1132,7 @@ F 1 "BAV70" H 8900 3301 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 8900 3175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 8900 3175 50  0001 C CNN
 	1    8900 3175
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	8900 2225 7375 2225
@@ -1208,7 +1195,7 @@ F 1 "BAV70" H 10425 1001 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 10425 875 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 10425 875 50  0001 C CNN
 	1    10425 875 
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push K_112
@@ -1241,7 +1228,7 @@ F 1 "BAV70" H 10425 1576 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 10425 1450 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 10425 1450 50  0001 C CNN
 	1    10425 1450
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push K_212
@@ -1274,7 +1261,7 @@ F 1 "BAV70" H 10425 2151 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 10425 2025 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 10425 2025 50  0001 C CNN
 	1    10425 2025
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push K_312
@@ -1370,11 +1357,7 @@ Text GLabel 9725 875  1    50   Input ~ 0
 col12
 Text GLabel 11125 875  1    50   Input ~ 0
 col13
-Wire Wire Line
-	2800 3375 5850 3375
 NoConn ~ 10725 2600
-NoConn ~ 6150 3175
-NoConn ~ 3100 3175
 $Comp
 L Switch:SW_Push K_400A1
 U 1 1 5FDD33E3
@@ -1497,7 +1480,6 @@ Wire Wire Line
 Connection ~ 5150 3175
 Wire Wire Line
 	5550 3225 5550 3175
-Connection ~ 5550 3175
 Wire Wire Line
 	8200 3225 8200 3175
 Connection ~ 8200 3175
@@ -1535,10 +1517,10 @@ Wire Wire Line
 	975  2075 975  2025
 Connection ~ 975  2025
 $Comp
-L Switch:SW_Push K_409A
+L Switch:SW_Push K_409A1
 U 1 1 5FE88ED7
 P 7875 3225
-F 0 "K_409A" H 7875 3418 50  0001 C CNN
+F 0 "K_409A1" H 7875 3418 50  0001 C CNN
 F 1 "KC_RALT" H 7875 3419 50  0001 C CNN
 F 2 "MX_Only:MXOnly-1.5U-NoLED" H 7875 3425 50  0001 C CNN
 F 3 "~" H 7875 3425 50  0001 C CNN
@@ -1551,4 +1533,37 @@ Connection ~ 8075 3175
 Wire Wire Line
 	7675 3225 7675 3175
 Connection ~ 7675 3175
+Connection ~ 2800 1075
+Connection ~ 4325 1075
+Connection ~ 5850 1075
+Connection ~ 7375 1075
+Connection ~ 8900 1075
+Connection ~ 8900 1650
+Connection ~ 7375 1650
+Connection ~ 5850 1650
+Connection ~ 4325 1650
+Connection ~ 2800 1650
+Connection ~ 2800 2225
+Connection ~ 4325 2225
+Connection ~ 5850 2225
+Connection ~ 7375 2225
+Connection ~ 8900 2225
+Connection ~ 8900 2800
+Connection ~ 7375 2800
+Connection ~ 5850 2800
+Connection ~ 4325 2800
+Connection ~ 2800 2800
+Connection ~ 2800 3375
+Connection ~ 7375 3375
+Wire Wire Line
+	2800 3375 7375 3375
+Wire Wire Line
+	5550 3175 5650 3175
+Wire Wire Line
+	5650 3175 5650 3300
+Wire Wire Line
+	5650 3300 3100 3300
+Wire Wire Line
+	3100 3300 3100 3175
+Connection ~ 5550 3175
 $EndSCHEMATC
