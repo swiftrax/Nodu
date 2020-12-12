@@ -17,67 +17,1538 @@ $EndDescr
 $Comp
 L Mechanical:MountingHole H1
 U 1 1 5FD4383F
-P 9600 2075
-F 0 "H1" H 9700 2121 50  0000 L CNN
-F 1 "M2 Slot" H 9700 2030 50  0000 L CNN
-F 2 "FlexHoles:Flex_M2_Left" H 9600 2075 50  0001 C CNN
-F 3 "~" H 9600 2075 50  0001 C CNN
-	1    9600 2075
+P 10650 5225
+F 0 "H1" H 10750 5271 50  0000 L CNN
+F 1 "M2 Slot" H 10750 5180 50  0000 L CNN
+F 2 "FlexHoles:Flex_M2_Left" H 10650 5225 50  0001 C CNN
+F 3 "~" H 10650 5225 50  0001 C CNN
+	1    10650 5225
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H2
 U 1 1 5FD43EB5
-P 9600 2300
-F 0 "H2" H 9700 2346 50  0000 L CNN
-F 1 "M2 Slot" H 9700 2255 50  0000 L CNN
-F 2 "FlexHoles:Flex_M2_Right" H 9600 2300 50  0001 C CNN
-F 3 "~" H 9600 2300 50  0001 C CNN
-	1    9600 2300
+P 10650 5450
+F 0 "H2" H 10750 5496 50  0000 L CNN
+F 1 "M2 Slot" H 10750 5405 50  0000 L CNN
+F 2 "FlexHoles:Flex_M2_Right" H 10650 5450 50  0001 C CNN
+F 3 "~" H 10650 5450 50  0001 C CNN
+	1    10650 5450
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H3
 U 1 1 5FD441AC
-P 9600 2525
-F 0 "H3" H 9700 2571 50  0000 L CNN
-F 1 "M2 Screw" H 9700 2480 50  0000 L CNN
-F 2 "FlexHoles:Flex_M2_Hole" H 9600 2525 50  0001 C CNN
-F 3 "~" H 9600 2525 50  0001 C CNN
-	1    9600 2525
+P 10650 5675
+F 0 "H3" H 10750 5721 50  0000 L CNN
+F 1 "M2 Screw" H 10750 5630 50  0000 L CNN
+F 2 "FlexHoles:Flex_M2_Hole" H 10650 5675 50  0001 C CNN
+F 3 "~" H 10650 5675 50  0001 C CNN
+	1    10650 5675
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H4
 U 1 1 5FD4476E
-P 9600 2750
-F 0 "H4" H 9700 2796 50  0000 L CNN
-F 1 "M2 Screw" H 9700 2705 50  0000 L CNN
-F 2 "FlexHoles:Flex_M2_Hole" H 9600 2750 50  0001 C CNN
-F 3 "~" H 9600 2750 50  0001 C CNN
-	1    9600 2750
+P 10650 5900
+F 0 "H4" H 10750 5946 50  0000 L CNN
+F 1 "M2 Screw" H 10750 5855 50  0000 L CNN
+F 2 "FlexHoles:Flex_M2_Hole" H 10650 5900 50  0001 C CNN
+F 3 "~" H 10650 5900 50  0001 C CNN
+	1    10650 5900
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H5
 U 1 1 5FD453CD
-P 9600 2975
-F 0 "H5" H 9700 3021 50  0000 L CNN
-F 1 "M2 Screw" H 9700 2930 50  0000 L CNN
-F 2 "FlexHoles:Flex_M2_Hole" H 9600 2975 50  0001 C CNN
-F 3 "~" H 9600 2975 50  0001 C CNN
-	1    9600 2975
+P 10650 6125
+F 0 "H5" H 10750 6171 50  0000 L CNN
+F 1 "M2 Screw" H 10750 6080 50  0000 L CNN
+F 2 "FlexHoles:Flex_M2_Hole" H 10650 6125 50  0001 C CNN
+F 3 "~" H 10650 6125 50  0001 C CNN
+	1    10650 6125
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H6
 U 1 1 5FD453D3
-P 9600 3200
-F 0 "H6" H 9700 3246 50  0000 L CNN
-F 1 "M2 Screw" H 9700 3155 50  0000 L CNN
-F 2 "FlexHoles:Flex_M2_Hole" H 9600 3200 50  0001 C CNN
-F 3 "~" H 9600 3200 50  0001 C CNN
-	1    9600 3200
+P 10650 6350
+F 0 "H6" H 10750 6396 50  0000 L CNN
+F 1 "M2 Screw" H 10750 6305 50  0000 L CNN
+F 2 "FlexHoles:Flex_M2_Hole" H 10650 6350 50  0001 C CNN
+F 3 "~" H 10650 6350 50  0001 C CNN
+	1    10650 6350
 	1    0    0    -1  
 $EndComp
+$Comp
+L Switch:SW_Push K_0
+U 1 1 5FD4C53A
+P 775 875
+F 0 "K_0" H 775 1160 50  0000 C CNN
+F 1 "KC_ESC" H 775 1069 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 775 1075 50  0001 C CNN
+F 3 "~" H 775 1075 50  0001 C CNN
+	1    775  875 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_1
+U 1 1 5FD4E9B4
+P 1775 875
+F 0 "K_1" H 1775 1160 50  0000 C CNN
+F 1 "KC_1" H 1775 1069 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 1775 1075 50  0001 C CNN
+F 3 "~" H 1775 1075 50  0001 C CNN
+	1    1775 875 
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D1
+U 1 1 5FD4EE07
+P 1275 875
+F 0 "D1" H 1275 1092 50  0000 C CNN
+F 1 "BAV70" H 1275 1001 50  0000 C CNN
+F 2 "Custom_Footprints:SOT-23_Annotated" H 1275 875 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 1275 875 50  0001 C CNN
+	1    1275 875 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_100
+U 1 1 5FD55C80
+P 775 1450
+F 0 "K_100" H 775 1735 50  0000 C CNN
+F 1 "KC_TAB" H 775 1644 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1.5U-NoLED" H 775 1650 50  0001 C CNN
+F 3 "~" H 775 1650 50  0001 C CNN
+	1    775  1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_101
+U 1 1 5FD55C86
+P 1775 1450
+F 0 "K_101" H 1775 1735 50  0000 C CNN
+F 1 "KC_Q" H 1775 1644 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 1775 1650 50  0001 C CNN
+F 3 "~" H 1775 1650 50  0001 C CNN
+	1    1775 1450
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D8
+U 1 1 5FD55C8C
+P 1275 1450
+F 0 "D8" H 1275 1667 50  0000 C CNN
+F 1 "BAV70" H 1275 1576 50  0000 C CNN
+F 2 "Custom_Footprints:SOT-23_Annotated" H 1275 1450 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 1275 1450 50  0001 C CNN
+	1    1275 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_200
+U 1 1 5FD57A21
+P 775 2025
+F 0 "K_200" H 775 2310 50  0000 C CNN
+F 1 "KC_CAPS" H 775 2219 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1.75U-NoLED" H 775 2225 50  0001 C CNN
+F 3 "~" H 775 2225 50  0001 C CNN
+	1    775  2025
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_201
+U 1 1 5FD57A27
+P 1775 2025
+F 0 "K_201" H 1775 2310 50  0000 C CNN
+F 1 "KC_A" H 1775 2219 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 1775 2225 50  0001 C CNN
+F 3 "~" H 1775 2225 50  0001 C CNN
+	1    1775 2025
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D15
+U 1 1 5FD57A2D
+P 1275 2025
+F 0 "D15" H 1275 2242 50  0000 C CNN
+F 1 "BAV70" H 1275 2151 50  0000 C CNN
+F 2 "Custom_Footprints:SOT-23_Annotated" H 1275 2025 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 1275 2025 50  0001 C CNN
+	1    1275 2025
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_300
+U 1 1 5FD5E7F9
+P 775 2600
+F 0 "K_300" H 775 2885 50  0000 C CNN
+F 1 "KC_LSFT" H 775 2794 50  0000 C CNN
+F 2 "MX_Only:MXOnly-2.25U-NoLED" H 775 2800 50  0001 C CNN
+F 3 "~" H 775 2800 50  0001 C CNN
+	1    775  2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_301
+U 1 1 5FD5E7FF
+P 1775 2600
+F 0 "K_301" H 1775 2885 50  0000 C CNN
+F 1 "KC_Z" H 1775 2794 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 1775 2800 50  0001 C CNN
+F 3 "~" H 1775 2800 50  0001 C CNN
+	1    1775 2600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D22
+U 1 1 5FD5E805
+P 1275 2600
+F 0 "D22" H 1275 2817 50  0000 C CNN
+F 1 "BAV70" H 1275 2726 50  0000 C CNN
+F 2 "Custom_Footprints:SOT-23_Annotated" H 1275 2600 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 1275 2600 50  0001 C CNN
+	1    1275 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_400
+U 1 1 5FD5E80B
+P 775 3175
+F 0 "K_400" H 775 3460 50  0000 C CNN
+F 1 "KC_LCTL" H 775 3369 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1.25U-NoLED" H 775 3375 50  0001 C CNN
+F 3 "~" H 775 3375 50  0001 C CNN
+	1    775  3175
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_401
+U 1 1 5FD5E811
+P 1775 3175
+F 0 "K_401" H 1775 3460 50  0000 C CNN
+F 1 "KC_LGUI" H 1775 3369 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1.25U-NoLED" H 1775 3375 50  0001 C CNN
+F 3 "~" H 1775 3375 50  0001 C CNN
+	1    1775 3175
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D29
+U 1 1 5FD5E817
+P 1275 3175
+F 0 "D29" H 1275 3392 50  0000 C CNN
+F 1 "BAV70" H 1275 3301 50  0000 C CNN
+F 2 "Custom_Footprints:SOT-23_Annotated" H 1275 3175 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 1275 3175 50  0001 C CNN
+	1    1275 3175
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_2
+U 1 1 5FD6A401
+P 2300 875
+F 0 "K_2" H 2300 1160 50  0000 C CNN
+F 1 "KC_2" H 2300 1069 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 2300 1075 50  0001 C CNN
+F 3 "~" H 2300 1075 50  0001 C CNN
+	1    2300 875 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_3
+U 1 1 5FD6A407
+P 3300 875
+F 0 "K_3" H 3300 1160 50  0000 C CNN
+F 1 "KC_3" H 3300 1069 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 3300 1075 50  0001 C CNN
+F 3 "~" H 3300 1075 50  0001 C CNN
+	1    3300 875 
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D2
+U 1 1 5FD6A40D
+P 2800 875
+F 0 "D2" H 2800 1092 50  0000 C CNN
+F 1 "BAV70" H 2800 1001 50  0000 C CNN
+F 2 "Custom_Footprints:SOT-23_Annotated" H 2800 875 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 2800 875 50  0001 C CNN
+	1    2800 875 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_102
+U 1 1 5FD6A413
+P 2300 1450
+F 0 "K_102" H 2300 1735 50  0000 C CNN
+F 1 "KC_W" H 2300 1644 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 2300 1650 50  0001 C CNN
+F 3 "~" H 2300 1650 50  0001 C CNN
+	1    2300 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_103
+U 1 1 5FD6A419
+P 3300 1450
+F 0 "K_103" H 3300 1735 50  0000 C CNN
+F 1 "KC_E" H 3300 1644 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 3300 1650 50  0001 C CNN
+F 3 "~" H 3300 1650 50  0001 C CNN
+	1    3300 1450
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D9
+U 1 1 5FD6A41F
+P 2800 1450
+F 0 "D9" H 2800 1667 50  0000 C CNN
+F 1 "BAV70" H 2800 1576 50  0000 C CNN
+F 2 "Custom_Footprints:SOT-23_Annotated" H 2800 1450 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 2800 1450 50  0001 C CNN
+	1    2800 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_202
+U 1 1 5FD6A425
+P 2300 2025
+F 0 "K_202" H 2300 2310 50  0000 C CNN
+F 1 "KC_S" H 2300 2219 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 2300 2225 50  0001 C CNN
+F 3 "~" H 2300 2225 50  0001 C CNN
+	1    2300 2025
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_203
+U 1 1 5FD6A42B
+P 3300 2025
+F 0 "K_203" H 3300 2310 50  0000 C CNN
+F 1 "KC_D" H 3300 2219 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 3300 2225 50  0001 C CNN
+F 3 "~" H 3300 2225 50  0001 C CNN
+	1    3300 2025
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D16
+U 1 1 5FD6A431
+P 2800 2025
+F 0 "D16" H 2800 2242 50  0000 C CNN
+F 1 "BAV70" H 2800 2151 50  0000 C CNN
+F 2 "Custom_Footprints:SOT-23_Annotated" H 2800 2025 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 2800 2025 50  0001 C CNN
+	1    2800 2025
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_302
+U 1 1 5FD6A437
+P 2300 2600
+F 0 "K_302" H 2300 2885 50  0000 C CNN
+F 1 "KC_X" H 2300 2794 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 2300 2800 50  0001 C CNN
+F 3 "~" H 2300 2800 50  0001 C CNN
+	1    2300 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_303
+U 1 1 5FD6A43D
+P 3300 2600
+F 0 "K_303" H 3300 2885 50  0000 C CNN
+F 1 "KC_C" H 3300 2794 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 3300 2800 50  0001 C CNN
+F 3 "~" H 3300 2800 50  0001 C CNN
+	1    3300 2600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D23
+U 1 1 5FD6A443
+P 2800 2600
+F 0 "D23" H 2800 2817 50  0000 C CNN
+F 1 "BAV70" H 2800 2726 50  0000 C CNN
+F 2 "Custom_Footprints:SOT-23_Annotated" H 2800 2600 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 2800 2600 50  0001 C CNN
+	1    2800 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_402
+U 1 1 5FD6A449
+P 2300 3175
+F 0 "K_402" H 2300 3460 50  0000 C CNN
+F 1 "KC_LALT" H 2300 3369 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1.25U-NoLED" H 2300 3375 50  0001 C CNN
+F 3 "~" H 2300 3375 50  0001 C CNN
+	1    2300 3175
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D30
+U 1 1 5FD6A455
+P 2800 3175
+F 0 "D30" H 2800 3392 50  0000 C CNN
+F 1 "BAV70" H 2800 3301 50  0000 C CNN
+F 2 "Custom_Footprints:SOT-23_Annotated" H 2800 3175 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 2800 3175 50  0001 C CNN
+	1    2800 3175
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2800 2225 1275 2225
+Wire Wire Line
+	2800 2800 1275 2800
+Wire Wire Line
+	2800 3375 1275 3375
+Wire Wire Line
+	2800 1650 1275 1650
+Wire Wire Line
+	2800 1075 1275 1075
+Wire Wire Line
+	575  3175 575  2600
+Connection ~ 575  1450
+Wire Wire Line
+	575  1450 575  875 
+Connection ~ 575  2025
+Wire Wire Line
+	575  2025 575  1450
+Connection ~ 575  2600
+Wire Wire Line
+	1975 3175 1975 2600
+Connection ~ 1975 1450
+Wire Wire Line
+	1975 1450 1975 875 
+Connection ~ 1975 2025
+Wire Wire Line
+	1975 2025 1975 1450
+Connection ~ 1975 2600
+Wire Wire Line
+	1975 2600 1975 2025
+Wire Wire Line
+	2100 875  2100 1450
+Connection ~ 2100 1450
+Wire Wire Line
+	2100 1450 2100 2025
+Connection ~ 2100 2025
+Wire Wire Line
+	2100 2025 2100 2600
+Connection ~ 2100 2600
+Wire Wire Line
+	2100 2600 2100 3175
+Connection ~ 3500 1450
+Wire Wire Line
+	3500 1450 3500 875 
+Connection ~ 3500 2025
+Wire Wire Line
+	3500 2025 3500 1450
+Wire Wire Line
+	3500 2600 3500 2025
+$Comp
+L Switch:SW_Push K_4
+U 1 1 5FD79725
+P 3825 875
+F 0 "K_4" H 3825 1160 50  0000 C CNN
+F 1 "KC_4" H 3825 1069 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 3825 1075 50  0001 C CNN
+F 3 "~" H 3825 1075 50  0001 C CNN
+	1    3825 875 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_5
+U 1 1 5FD7972B
+P 4825 875
+F 0 "K_5" H 4825 1160 50  0000 C CNN
+F 1 "KC_5" H 4825 1069 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 4825 1075 50  0001 C CNN
+F 3 "~" H 4825 1075 50  0001 C CNN
+	1    4825 875 
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D3
+U 1 1 5FD79731
+P 4325 875
+F 0 "D3" H 4325 1092 50  0000 C CNN
+F 1 "BAV70" H 4325 1001 50  0000 C CNN
+F 2 "Custom_Footprints:SOT-23_Annotated" H 4325 875 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 4325 875 50  0001 C CNN
+	1    4325 875 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_104
+U 1 1 5FD79737
+P 3825 1450
+F 0 "K_104" H 3825 1735 50  0000 C CNN
+F 1 "KC_R" H 3825 1644 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 3825 1650 50  0001 C CNN
+F 3 "~" H 3825 1650 50  0001 C CNN
+	1    3825 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_105
+U 1 1 5FD7973D
+P 4825 1450
+F 0 "K_105" H 4825 1735 50  0000 C CNN
+F 1 "KC_T" H 4825 1644 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 4825 1650 50  0001 C CNN
+F 3 "~" H 4825 1650 50  0001 C CNN
+	1    4825 1450
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D10
+U 1 1 5FD79743
+P 4325 1450
+F 0 "D10" H 4325 1667 50  0000 C CNN
+F 1 "BAV70" H 4325 1576 50  0000 C CNN
+F 2 "Custom_Footprints:SOT-23_Annotated" H 4325 1450 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 4325 1450 50  0001 C CNN
+	1    4325 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_204
+U 1 1 5FD79749
+P 3825 2025
+F 0 "K_204" H 3825 2310 50  0000 C CNN
+F 1 "KC_F" H 3825 2219 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 3825 2225 50  0001 C CNN
+F 3 "~" H 3825 2225 50  0001 C CNN
+	1    3825 2025
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_205
+U 1 1 5FD7974F
+P 4825 2025
+F 0 "K_205" H 4825 2310 50  0000 C CNN
+F 1 "KC_G" H 4825 2219 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 4825 2225 50  0001 C CNN
+F 3 "~" H 4825 2225 50  0001 C CNN
+	1    4825 2025
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D17
+U 1 1 5FD79755
+P 4325 2025
+F 0 "D17" H 4325 2242 50  0000 C CNN
+F 1 "BAV70" H 4325 2151 50  0000 C CNN
+F 2 "Custom_Footprints:SOT-23_Annotated" H 4325 2025 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 4325 2025 50  0001 C CNN
+	1    4325 2025
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_304
+U 1 1 5FD7975B
+P 3825 2600
+F 0 "K_304" H 3825 2885 50  0000 C CNN
+F 1 "KC_V" H 3825 2794 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 3825 2800 50  0001 C CNN
+F 3 "~" H 3825 2800 50  0001 C CNN
+	1    3825 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_305
+U 1 1 5FD79761
+P 4825 2600
+F 0 "K_305" H 4825 2885 50  0000 C CNN
+F 1 "KC_B" H 4825 2794 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 4825 2800 50  0001 C CNN
+F 3 "~" H 4825 2800 50  0001 C CNN
+	1    4825 2600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D24
+U 1 1 5FD79767
+P 4325 2600
+F 0 "D24" H 4325 2817 50  0000 C CNN
+F 1 "BAV70" H 4325 2726 50  0000 C CNN
+F 2 "Custom_Footprints:SOT-23_Annotated" H 4325 2600 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 4325 2600 50  0001 C CNN
+	1    4325 2600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4325 2225 2800 2225
+Wire Wire Line
+	4325 2800 2800 2800
+Wire Wire Line
+	4325 1650 2800 1650
+Wire Wire Line
+	4325 1075 2800 1075
+Wire Wire Line
+	3625 875  3625 1450
+Connection ~ 3625 1450
+Wire Wire Line
+	3625 1450 3625 2025
+Connection ~ 3625 2025
+Wire Wire Line
+	3625 2025 3625 2600
+Connection ~ 5025 1450
+Wire Wire Line
+	5025 1450 5025 875 
+Connection ~ 5025 2025
+Wire Wire Line
+	5025 2025 5025 1450
+Wire Wire Line
+	5025 2600 5025 2025
+$Comp
+L Switch:SW_Push K_6
+U 1 1 5FD7F513
+P 5350 875
+F 0 "K_6" H 5350 1160 50  0000 C CNN
+F 1 "KC_6" H 5350 1069 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 5350 1075 50  0001 C CNN
+F 3 "~" H 5350 1075 50  0001 C CNN
+	1    5350 875 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_7
+U 1 1 5FD7F519
+P 6350 875
+F 0 "K_7" H 6350 1160 50  0000 C CNN
+F 1 "KC_7" H 6350 1069 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 6350 1075 50  0001 C CNN
+F 3 "~" H 6350 1075 50  0001 C CNN
+	1    6350 875 
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D4
+U 1 1 5FD7F51F
+P 5850 875
+F 0 "D4" H 5850 1092 50  0000 C CNN
+F 1 "BAV70" H 5850 1001 50  0000 C CNN
+F 2 "Custom_Footprints:SOT-23_Annotated" H 5850 875 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 5850 875 50  0001 C CNN
+	1    5850 875 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_106
+U 1 1 5FD7F525
+P 5350 1450
+F 0 "K_106" H 5350 1735 50  0000 C CNN
+F 1 "KC_Y" H 5350 1644 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 5350 1650 50  0001 C CNN
+F 3 "~" H 5350 1650 50  0001 C CNN
+	1    5350 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_107
+U 1 1 5FD7F52B
+P 6350 1450
+F 0 "K_107" H 6350 1735 50  0000 C CNN
+F 1 "KC_U" H 6350 1644 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 6350 1650 50  0001 C CNN
+F 3 "~" H 6350 1650 50  0001 C CNN
+	1    6350 1450
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D11
+U 1 1 5FD7F531
+P 5850 1450
+F 0 "D11" H 5850 1667 50  0000 C CNN
+F 1 "BAV70" H 5850 1576 50  0000 C CNN
+F 2 "Custom_Footprints:SOT-23_Annotated" H 5850 1450 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 5850 1450 50  0001 C CNN
+	1    5850 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_206
+U 1 1 5FD7F537
+P 5350 2025
+F 0 "K_206" H 5350 2310 50  0000 C CNN
+F 1 "KC_H" H 5350 2219 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 5350 2225 50  0001 C CNN
+F 3 "~" H 5350 2225 50  0001 C CNN
+	1    5350 2025
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_207
+U 1 1 5FD7F53D
+P 6350 2025
+F 0 "K_207" H 6350 2310 50  0000 C CNN
+F 1 "KC_J" H 6350 2219 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 6350 2225 50  0001 C CNN
+F 3 "~" H 6350 2225 50  0001 C CNN
+	1    6350 2025
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D18
+U 1 1 5FD7F543
+P 5850 2025
+F 0 "D18" H 5850 2242 50  0000 C CNN
+F 1 "BAV70" H 5850 2151 50  0000 C CNN
+F 2 "Custom_Footprints:SOT-23_Annotated" H 5850 2025 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 5850 2025 50  0001 C CNN
+	1    5850 2025
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_306
+U 1 1 5FD7F549
+P 5350 2600
+F 0 "K_306" H 5350 2885 50  0000 C CNN
+F 1 "KC_N" H 5350 2794 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 5350 2800 50  0001 C CNN
+F 3 "~" H 5350 2800 50  0001 C CNN
+	1    5350 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_307
+U 1 1 5FD7F54F
+P 6350 2600
+F 0 "K_307" H 6350 2885 50  0000 C CNN
+F 1 "KC_M" H 6350 2794 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 6350 2800 50  0001 C CNN
+F 3 "~" H 6350 2800 50  0001 C CNN
+	1    6350 2600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D25
+U 1 1 5FD7F555
+P 5850 2600
+F 0 "D25" H 5850 2817 50  0000 C CNN
+F 1 "BAV70" H 5850 2726 50  0000 C CNN
+F 2 "Custom_Footprints:SOT-23_Annotated" H 5850 2600 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 5850 2600 50  0001 C CNN
+	1    5850 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_406
+U 1 1 5FD7F55B
+P 5350 3175
+F 0 "K_406" H 5350 3460 50  0000 C CNN
+F 1 "KC_SPC" H 5350 3369 50  0000 C CNN
+F 2 "MX_Only:MXOnly-6.25U-ReversedStabilizers-NoLED" H 5350 3375 50  0001 C CNN
+F 3 "~" H 5350 3375 50  0001 C CNN
+	1    5350 3175
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D31
+U 1 1 5FD7F567
+P 5850 3175
+F 0 "D31" H 5850 3392 50  0000 C CNN
+F 1 "BAV70" H 5850 3301 50  0000 C CNN
+F 2 "Custom_Footprints:SOT-23_Annotated" H 5850 3175 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 5850 3175 50  0001 C CNN
+	1    5850 3175
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5850 2225 4325 2225
+Wire Wire Line
+	5850 2800 4325 2800
+Wire Wire Line
+	5850 1650 4325 1650
+Wire Wire Line
+	5850 1075 4325 1075
+Wire Wire Line
+	5150 875  5150 1450
+Connection ~ 5150 1450
+Wire Wire Line
+	5150 1450 5150 2025
+Connection ~ 5150 2025
+Wire Wire Line
+	5150 2025 5150 2600
+Connection ~ 5150 2600
+Wire Wire Line
+	5150 2600 5150 3175
+Connection ~ 6550 1450
+Wire Wire Line
+	6550 1450 6550 875 
+Connection ~ 6550 2025
+Wire Wire Line
+	6550 2025 6550 1450
+Wire Wire Line
+	6550 2600 6550 2025
+$Comp
+L Switch:SW_Push K_8
+U 1 1 5FD83DF5
+P 6875 875
+F 0 "K_8" H 6875 1160 50  0000 C CNN
+F 1 "KC_8" H 6875 1069 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 6875 1075 50  0001 C CNN
+F 3 "~" H 6875 1075 50  0001 C CNN
+	1    6875 875 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_9
+U 1 1 5FD83DFB
+P 7875 875
+F 0 "K_9" H 7875 1160 50  0000 C CNN
+F 1 "KC_9" H 7875 1069 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 7875 1075 50  0001 C CNN
+F 3 "~" H 7875 1075 50  0001 C CNN
+	1    7875 875 
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D5
+U 1 1 5FD83E01
+P 7375 875
+F 0 "D5" H 7375 1092 50  0000 C CNN
+F 1 "BAV70" H 7375 1001 50  0000 C CNN
+F 2 "Custom_Footprints:SOT-23_Annotated" H 7375 875 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 7375 875 50  0001 C CNN
+	1    7375 875 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_108
+U 1 1 5FD83E07
+P 6875 1450
+F 0 "K_108" H 6875 1735 50  0000 C CNN
+F 1 "KC_I" H 6875 1644 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 6875 1650 50  0001 C CNN
+F 3 "~" H 6875 1650 50  0001 C CNN
+	1    6875 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_109
+U 1 1 5FD83E0D
+P 7875 1450
+F 0 "K_109" H 7875 1735 50  0000 C CNN
+F 1 "KC_O" H 7875 1644 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 7875 1650 50  0001 C CNN
+F 3 "~" H 7875 1650 50  0001 C CNN
+	1    7875 1450
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D12
+U 1 1 5FD83E13
+P 7375 1450
+F 0 "D12" H 7375 1667 50  0000 C CNN
+F 1 "BAV70" H 7375 1576 50  0000 C CNN
+F 2 "Custom_Footprints:SOT-23_Annotated" H 7375 1450 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 7375 1450 50  0001 C CNN
+	1    7375 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_208
+U 1 1 5FD83E19
+P 6875 2025
+F 0 "K_208" H 6875 2310 50  0000 C CNN
+F 1 "KC_K" H 6875 2219 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 6875 2225 50  0001 C CNN
+F 3 "~" H 6875 2225 50  0001 C CNN
+	1    6875 2025
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_209
+U 1 1 5FD83E1F
+P 7875 2025
+F 0 "K_209" H 7875 2310 50  0000 C CNN
+F 1 "KC_L" H 7875 2219 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 7875 2225 50  0001 C CNN
+F 3 "~" H 7875 2225 50  0001 C CNN
+	1    7875 2025
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D19
+U 1 1 5FD83E25
+P 7375 2025
+F 0 "D19" H 7375 2242 50  0000 C CNN
+F 1 "BAV70" H 7375 2151 50  0000 C CNN
+F 2 "Custom_Footprints:SOT-23_Annotated" H 7375 2025 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 7375 2025 50  0001 C CNN
+	1    7375 2025
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_308
+U 1 1 5FD83E2B
+P 6875 2600
+F 0 "K_308" H 6875 2885 50  0000 C CNN
+F 1 "KC_COMM" H 6875 2794 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 6875 2800 50  0001 C CNN
+F 3 "~" H 6875 2800 50  0001 C CNN
+	1    6875 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_309
+U 1 1 5FD83E31
+P 7875 2600
+F 0 "K_309" H 7875 2885 50  0000 C CNN
+F 1 "KC_DOT" H 7875 2794 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 7875 2800 50  0001 C CNN
+F 3 "~" H 7875 2800 50  0001 C CNN
+	1    7875 2600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D26
+U 1 1 5FD83E37
+P 7375 2600
+F 0 "D26" H 7375 2817 50  0000 C CNN
+F 1 "BAV70" H 7375 2726 50  0000 C CNN
+F 2 "Custom_Footprints:SOT-23_Annotated" H 7375 2600 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 7375 2600 50  0001 C CNN
+	1    7375 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_408
+U 1 1 5FD83E3D
+P 6875 3175
+F 0 "K_408" H 6875 3460 50  0000 C CNN
+F 1 "KC_RALT" H 6875 3369 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1.25U-NoLED" H 6875 3375 50  0001 C CNN
+F 3 "~" H 6875 3375 50  0001 C CNN
+	1    6875 3175
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_409
+U 1 1 5FD83E43
+P 7875 3175
+F 0 "K_409" H 7875 3460 50  0000 C CNN
+F 1 "KC_RGUI" H 7875 3369 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1.25U-NoLED" H 7875 3375 50  0001 C CNN
+F 3 "~" H 7875 3375 50  0001 C CNN
+	1    7875 3175
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D32
+U 1 1 5FD83E49
+P 7375 3175
+F 0 "D32" H 7375 3392 50  0000 C CNN
+F 1 "BAV70" H 7375 3301 50  0000 C CNN
+F 2 "Custom_Footprints:SOT-23_Annotated" H 7375 3175 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 7375 3175 50  0001 C CNN
+	1    7375 3175
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7375 2225 5850 2225
+Wire Wire Line
+	7375 2800 5850 2800
+Wire Wire Line
+	7375 3375 5850 3375
+Wire Wire Line
+	7375 1650 5850 1650
+Wire Wire Line
+	7375 1075 5850 1075
+Wire Wire Line
+	6675 875  6675 1450
+Connection ~ 6675 1450
+Wire Wire Line
+	6675 1450 6675 2025
+Connection ~ 6675 2025
+Wire Wire Line
+	6675 2025 6675 2600
+Connection ~ 6675 2600
+Wire Wire Line
+	6675 2600 6675 3175
+Wire Wire Line
+	8075 3175 8075 2600
+Connection ~ 8075 1450
+Wire Wire Line
+	8075 1450 8075 875 
+Connection ~ 8075 2025
+Wire Wire Line
+	8075 2025 8075 1450
+Connection ~ 8075 2600
+Wire Wire Line
+	8075 2600 8075 2025
+$Comp
+L Switch:SW_Push K_10
+U 1 1 5FD88276
+P 8400 875
+F 0 "K_10" H 8400 1160 50  0000 C CNN
+F 1 "KC_0" H 8400 1069 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 8400 1075 50  0001 C CNN
+F 3 "~" H 8400 1075 50  0001 C CNN
+	1    8400 875 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_11
+U 1 1 5FD8827C
+P 9400 875
+F 0 "K_11" H 9400 1160 50  0000 C CNN
+F 1 "KC_MINS" H 9400 1069 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 9400 1075 50  0001 C CNN
+F 3 "~" H 9400 1075 50  0001 C CNN
+	1    9400 875 
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D6
+U 1 1 5FD88282
+P 8900 875
+F 0 "D6" H 8900 1092 50  0000 C CNN
+F 1 "BAV70" H 8900 1001 50  0000 C CNN
+F 2 "Custom_Footprints:SOT-23_Annotated" H 8900 875 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 8900 875 50  0001 C CNN
+	1    8900 875 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_110
+U 1 1 5FD88288
+P 8400 1450
+F 0 "K_110" H 8400 1735 50  0000 C CNN
+F 1 "KC_P" H 8400 1644 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 8400 1650 50  0001 C CNN
+F 3 "~" H 8400 1650 50  0001 C CNN
+	1    8400 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_111
+U 1 1 5FD8828E
+P 9400 1450
+F 0 "K_111" H 9400 1735 50  0000 C CNN
+F 1 "KC_LBRC" H 9400 1644 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 9400 1650 50  0001 C CNN
+F 3 "~" H 9400 1650 50  0001 C CNN
+	1    9400 1450
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D13
+U 1 1 5FD88294
+P 8900 1450
+F 0 "D13" H 8900 1667 50  0000 C CNN
+F 1 "BAV70" H 8900 1576 50  0000 C CNN
+F 2 "Custom_Footprints:SOT-23_Annotated" H 8900 1450 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 8900 1450 50  0001 C CNN
+	1    8900 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_210
+U 1 1 5FD8829A
+P 8400 2025
+F 0 "K_210" H 8400 2310 50  0000 C CNN
+F 1 "KC_SCLN" H 8400 2219 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 8400 2225 50  0001 C CNN
+F 3 "~" H 8400 2225 50  0001 C CNN
+	1    8400 2025
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_211
+U 1 1 5FD882A0
+P 9400 2025
+F 0 "K_211" H 9400 2310 50  0000 C CNN
+F 1 "KC_QUOT" H 9400 2219 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 9400 2225 50  0001 C CNN
+F 3 "~" H 9400 2225 50  0001 C CNN
+	1    9400 2025
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D20
+U 1 1 5FD882A6
+P 8900 2025
+F 0 "D20" H 8900 2242 50  0000 C CNN
+F 1 "BAV70" H 8900 2151 50  0000 C CNN
+F 2 "Custom_Footprints:SOT-23_Annotated" H 8900 2025 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 8900 2025 50  0001 C CNN
+	1    8900 2025
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_310
+U 1 1 5FD882AC
+P 8400 2600
+F 0 "K_310" H 8400 2885 50  0000 C CNN
+F 1 "KC_SLSH" H 8400 2794 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 8400 2800 50  0001 C CNN
+F 3 "~" H 8400 2800 50  0001 C CNN
+	1    8400 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_311
+U 1 1 5FD882B2
+P 9400 2600
+F 0 "K_311" H 9400 2885 50  0000 C CNN
+F 1 "KC_RSFT" H 9400 2794 50  0000 C CNN
+F 2 "MX_Only:MXOnly-2.75U-NoLED" H 9400 2800 50  0001 C CNN
+F 3 "~" H 9400 2800 50  0001 C CNN
+	1    9400 2600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D27
+U 1 1 5FD882B8
+P 8900 2600
+F 0 "D27" H 8900 2817 50  0000 C CNN
+F 1 "BAV70" H 8900 2726 50  0000 C CNN
+F 2 "Custom_Footprints:SOT-23_Annotated" H 8900 2600 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 8900 2600 50  0001 C CNN
+	1    8900 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_410
+U 1 1 5FD882BE
+P 8400 3175
+F 0 "K_410" H 8400 3460 50  0000 C CNN
+F 1 "KC_MO(1)" H 8400 3369 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1.25U-NoLED" H 8400 3375 50  0001 C CNN
+F 3 "~" H 8400 3375 50  0001 C CNN
+	1    8400 3175
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_411
+U 1 1 5FD882C4
+P 9400 3175
+F 0 "K_411" H 9400 3460 50  0000 C CNN
+F 1 "KC_RCTL" H 9400 3369 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1.25U-NoLED" H 9400 3375 50  0001 C CNN
+F 3 "~" H 9400 3375 50  0001 C CNN
+	1    9400 3175
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D33
+U 1 1 5FD882CA
+P 8900 3175
+F 0 "D33" H 8900 3392 50  0000 C CNN
+F 1 "BAV70" H 8900 3301 50  0000 C CNN
+F 2 "Custom_Footprints:SOT-23_Annotated" H 8900 3175 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 8900 3175 50  0001 C CNN
+	1    8900 3175
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8900 2225 7375 2225
+Wire Wire Line
+	8900 2800 7375 2800
+Wire Wire Line
+	8900 3375 7375 3375
+Wire Wire Line
+	8900 1650 7375 1650
+Wire Wire Line
+	8900 1075 7375 1075
+Wire Wire Line
+	8200 875  8200 1450
+Connection ~ 8200 1450
+Wire Wire Line
+	8200 1450 8200 2025
+Connection ~ 8200 2025
+Wire Wire Line
+	8200 2025 8200 2600
+Connection ~ 8200 2600
+Wire Wire Line
+	8200 2600 8200 3175
+Connection ~ 9600 1450
+Wire Wire Line
+	9600 1450 9600 875 
+Connection ~ 9600 2025
+Wire Wire Line
+	9600 2025 9600 1450
+Connection ~ 9600 2600
+Wire Wire Line
+	9600 2600 9600 2025
+$Comp
+L Switch:SW_Push K_12
+U 1 1 5FD91701
+P 9925 875
+F 0 "K_12" H 9925 1160 50  0000 C CNN
+F 1 "KC_EQL" H 9925 1069 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 9925 1075 50  0001 C CNN
+F 3 "~" H 9925 1075 50  0001 C CNN
+	1    9925 875 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_13
+U 1 1 5FD91707
+P 10925 875
+F 0 "K_13" H 10925 1160 50  0000 C CNN
+F 1 "KC_BSPC" H 10925 1069 50  0000 C CNN
+F 2 "MX_Only:MXOnly-2U-NoLED" H 10925 1075 50  0001 C CNN
+F 3 "~" H 10925 1075 50  0001 C CNN
+	1    10925 875 
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D7
+U 1 1 5FD9170D
+P 10425 875
+F 0 "D7" H 10425 1092 50  0000 C CNN
+F 1 "BAV70" H 10425 1001 50  0000 C CNN
+F 2 "Custom_Footprints:SOT-23_Annotated" H 10425 875 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 10425 875 50  0001 C CNN
+	1    10425 875 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_112
+U 1 1 5FD91713
+P 9925 1450
+F 0 "K_112" H 9925 1735 50  0000 C CNN
+F 1 "KC_RBRC" H 9925 1644 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 9925 1650 50  0001 C CNN
+F 3 "~" H 9925 1650 50  0001 C CNN
+	1    9925 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_113
+U 1 1 5FD91719
+P 10925 1450
+F 0 "K_113" H 10925 1735 50  0000 C CNN
+F 1 "KC_BSLS" H 10925 1644 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1.5U-NoLED" H 10925 1650 50  0001 C CNN
+F 3 "~" H 10925 1650 50  0001 C CNN
+	1    10925 1450
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D14
+U 1 1 5FD9171F
+P 10425 1450
+F 0 "D14" H 10425 1667 50  0000 C CNN
+F 1 "BAV70" H 10425 1576 50  0000 C CNN
+F 2 "Custom_Footprints:SOT-23_Annotated" H 10425 1450 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 10425 1450 50  0001 C CNN
+	1    10425 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_212
+U 1 1 5FD91725
+P 9925 2025
+F 0 "K_212" H 9925 2310 50  0000 C CNN
+F 1 "KC_ENT" H 9925 2219 50  0000 C CNN
+F 2 "MX_Only:MXOnly-2.25U-NoLED" H 9925 2225 50  0001 C CNN
+F 3 "~" H 9925 2225 50  0001 C CNN
+	1    9925 2025
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_213
+U 1 1 5FD9172B
+P 10925 2025
+F 0 "K_213" H 10925 2310 50  0000 C CNN
+F 1 "KC_DEL" H 10925 2219 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 10925 2225 50  0001 C CNN
+F 3 "~" H 10925 2225 50  0001 C CNN
+	1    10925 2025
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D21
+U 1 1 5FD91731
+P 10425 2025
+F 0 "D21" H 10425 2242 50  0000 C CNN
+F 1 "BAV70" H 10425 2151 50  0000 C CNN
+F 2 "Custom_Footprints:SOT-23_Annotated" H 10425 2025 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 10425 2025 50  0001 C CNN
+	1    10425 2025
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_312
+U 1 1 5FD91737
+P 9925 2600
+F 0 "K_312" H 9925 2885 50  0000 C CNN
+F 1 "KC_MO(1)" H 9925 2794 50  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 9925 2800 50  0001 C CNN
+F 3 "~" H 9925 2800 50  0001 C CNN
+	1    9925 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D28
+U 1 1 5FD91743
+P 10425 2600
+F 0 "D28" H 10425 2817 50  0000 C CNN
+F 1 "BAV70" H 10425 2726 50  0000 C CNN
+F 2 "Custom_Footprints:SOT-23_Annotated" H 10425 2600 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 10425 2600 50  0001 C CNN
+	1    10425 2600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10425 2225 8900 2225
+Wire Wire Line
+	10425 2800 8900 2800
+Wire Wire Line
+	10425 1650 8900 1650
+Wire Wire Line
+	10425 1075 8900 1075
+Wire Wire Line
+	9725 875  9725 1450
+Connection ~ 9725 1450
+Wire Wire Line
+	9725 1450 9725 2025
+Connection ~ 9725 2025
+Wire Wire Line
+	9725 2025 9725 2600
+Connection ~ 11125 1450
+Wire Wire Line
+	11125 2025 11125 1450
+Text GLabel 1075 1075 0    50   Input ~ 0
+row0
+Text GLabel 1075 1650 0    50   Input ~ 0
+row1
+Text GLabel 1075 2225 0    50   Input ~ 0
+row2
+Text GLabel 1075 2800 0    50   Input ~ 0
+row3
+Text GLabel 1075 3375 0    50   Input ~ 0
+row4
+Wire Wire Line
+	1075 3375 1275 3375
+Connection ~ 1275 3375
+Wire Wire Line
+	1075 2800 1275 2800
+Connection ~ 1275 2800
+Wire Wire Line
+	1075 2225 1275 2225
+Connection ~ 1275 2225
+Wire Wire Line
+	1075 1650 1275 1650
+Connection ~ 1275 1650
+Wire Wire Line
+	1075 1075 1275 1075
+Connection ~ 1275 1075
+Text GLabel 575  875  1    50   Input ~ 0
+col0
+Text GLabel 1975 875  1    50   Input ~ 0
+col1
+Text GLabel 2100 875  1    50   Input ~ 0
+col2
+Text GLabel 3500 875  1    50   Input ~ 0
+col3
+Text GLabel 3625 875  1    50   Input ~ 0
+col4
+Text GLabel 5025 875  1    50   Input ~ 0
+col5
+Text GLabel 5150 875  1    50   Input ~ 0
+col6
+Text GLabel 6550 875  1    50   Input ~ 0
+col7
+Text GLabel 8075 875  1    50   Input ~ 0
+col9
+Text GLabel 6675 875  1    50   Input ~ 0
+col8
+Text GLabel 8200 875  1    50   Input ~ 0
+col10
+Text GLabel 9600 875  1    50   Input ~ 0
+col11
+Text GLabel 9725 875  1    50   Input ~ 0
+col12
+Text GLabel 11125 875  1    50   Input ~ 0
+col13
+Wire Wire Line
+	2800 3375 5850 3375
+NoConn ~ 10725 2600
+NoConn ~ 6150 3175
+NoConn ~ 3100 3175
+$Comp
+L Switch:SW_Push K_400A1
+U 1 1 5FDD33E3
+P 775 3225
+F 0 "K_400A1" H 775 3418 50  0001 C CNN
+F 1 "KC_LCTL" H 775 3419 50  0001 C CNN
+F 2 "MX_Only:MXOnly-1.5U-NoLED" H 775 3425 50  0001 C CNN
+F 3 "~" H 775 3425 50  0001 C CNN
+	1    775  3225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_401A1
+U 1 1 5FDD4D6E
+P 1775 3225
+F 0 "K_401A1" H 1775 3418 50  0001 C CNN
+F 1 "KC_LGUI" H 1775 3419 50  0001 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 1775 3425 50  0001 C CNN
+F 3 "~" H 1775 3425 50  0001 C CNN
+	1    1775 3225
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_402A1
+U 1 1 5FDD651B
+P 2300 3225
+F 0 "K_402A1" H 2300 3418 50  0001 C CNN
+F 1 "KC_LALT" H 2300 3419 50  0001 C CNN
+F 2 "MX_Only:MXOnly-1.5U-NoLED" H 2300 3425 50  0001 C CNN
+F 3 "~" H 2300 3425 50  0001 C CNN
+	1    2300 3225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_406A1
+U 1 1 5FDD7ED9
+P 5350 3225
+F 0 "K_406A1" H 5350 3418 50  0001 C CNN
+F 1 "KC_SPC" H 5350 3419 50  0001 C CNN
+F 2 "MX_Only:MXOnly-7U-ReversedStabilizers-NoLED" H 5350 3425 50  0001 C CNN
+F 3 "~" H 5350 3425 50  0001 C CNN
+	1    5350 3225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_410A1
+U 1 1 5FDDB155
+P 8400 3225
+F 0 "K_410A1" H 8400 3418 50  0001 C CNN
+F 1 "KC_MO(1)" H 8400 3419 50  0001 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 8400 3425 50  0001 C CNN
+F 3 "~" H 8400 3425 50  0001 C CNN
+	1    8400 3225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_411A1
+U 1 1 5FDDCBA9
+P 9400 3225
+F 0 "K_411A1" H 9400 3418 50  0001 C CNN
+F 1 "KC_RCTL" H 9400 3419 50  0001 C CNN
+F 2 "MX_Only:MXOnly-1.5U-NoLED" H 9400 3425 50  0001 C CNN
+F 3 "~" H 9400 3425 50  0001 C CNN
+	1    9400 3225
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_311A1
+U 1 1 5FDDF2EF
+P 9400 2650
+F 0 "K_311A1" H 9400 2843 50  0001 C CNN
+F 1 "KC_RSFT" H 9400 2844 50  0001 C CNN
+F 2 "MX_Only:MXOnly-1.75U-NoLED" H 9400 2850 50  0001 C CNN
+F 3 "~" H 9400 2850 50  0001 C CNN
+	1    9400 2650
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_200A1
+U 1 1 5FDE0C7C
+P 775 2075
+F 0 "K_200A1" H 775 2268 50  0001 C CNN
+F 1 "KC_CAPS" H 775 2269 50  0001 C CNN
+F 2 "MX_Only:MXOnly-1.25U-NoLED" H 775 2275 50  0001 C CNN
+F 3 "~" H 775 2275 50  0001 C CNN
+	1    775  2075
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push K_013A1
+U 1 1 5FDE26D8
+P 10925 925
+F 0 "K_013A1" H 10925 1118 50  0001 C CNN
+F 1 "KC_BSPC" H 10925 1119 50  0001 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 10925 1125 50  0001 C CNN
+F 3 "~" H 10925 1125 50  0001 C CNN
+	1    10925 925 
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	575  3225 575  3175
+Connection ~ 575  3175
+Wire Wire Line
+	975  3225 975  3175
+Connection ~ 975  3175
+Wire Wire Line
+	1575 3225 1575 3175
+Connection ~ 1575 3175
+Wire Wire Line
+	1975 3225 1975 3175
+Connection ~ 1975 3175
+Wire Wire Line
+	2100 3225 2100 3175
+Connection ~ 2100 3175
+Wire Wire Line
+	2500 3225 2500 3175
+Connection ~ 2500 3175
+Wire Wire Line
+	5150 3225 5150 3175
+Connection ~ 5150 3175
+Wire Wire Line
+	5550 3225 5550 3175
+Connection ~ 5550 3175
+Wire Wire Line
+	8200 3225 8200 3175
+Connection ~ 8200 3175
+Wire Wire Line
+	8600 3225 8600 3175
+Connection ~ 8600 3175
+Wire Wire Line
+	9200 3225 9200 3175
+Connection ~ 9200 3175
+Wire Wire Line
+	9600 3225 9600 3175
+Connection ~ 9600 3175
+Wire Wire Line
+	9200 2650 9200 2600
+Connection ~ 9200 2600
+Wire Wire Line
+	9600 2600 9600 2650
+Connection ~ 9600 2650
+Wire Wire Line
+	9600 2650 9600 3175
+Wire Wire Line
+	11125 875  11125 925 
+Connection ~ 11125 925 
+Wire Wire Line
+	11125 925  11125 1450
+Wire Wire Line
+	10725 925  10725 875 
+Connection ~ 10725 875 
+Wire Wire Line
+	575  2025 575  2075
+Connection ~ 575  2075
+Wire Wire Line
+	575  2075 575  2600
+Wire Wire Line
+	975  2075 975  2025
+Connection ~ 975  2025
+$Comp
+L Switch:SW_Push K_409A1
+U 1 1 5FE88ED7
+P 7875 3225
+F 0 "K_409A1" H 7875 3418 50  0001 C CNN
+F 1 "KC_RALT" H 7875 3419 50  0001 C CNN
+F 2 "MX_Only:MXOnly-1.5U-NoLED" H 7875 3425 50  0001 C CNN
+F 3 "~" H 7875 3425 50  0001 C CNN
+	1    7875 3225
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	8075 3225 8075 3175
+Connection ~ 8075 3175
+Wire Wire Line
+	7675 3225 7675 3175
+Connection ~ 7675 3175
 $EndSCHEMATC
