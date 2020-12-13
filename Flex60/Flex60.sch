@@ -2136,4 +2136,42 @@ Text GLabel 3745 4125 0    50   Input ~ 0
 DB-
 Text GLabel 4745 4125 2    50   Input ~ 0
 DB+
+Text GLabel 2475 4725 2    50   Input ~ 0
+col1
+Text GLabel 2475 6425 2    50   Input ~ 0
+col0
+Text GLabel 2475 4025 2    50   Input ~ 0
+row0
+Text GLabel 2475 4325 2    50   Input ~ 0
+row1
+Text GLabel 2475 6725 2    50   Input ~ 0
+row2
+Text GLabel 2475 6625 2    50   Input ~ 0
+row3
+Text GLabel 2475 6525 2    50   Input ~ 0
+row4
+Text GLabel 2475 5225 2    50   Input ~ 0
+col13
+Text GLabel 2475 5325 2    50   Input ~ 0
+col12
+Text GLabel 2475 5425 2    50   Input ~ 0
+col11
+Text GLabel 2475 5525 2    50   Input ~ 0
+col10
+Text GLabel 2475 5725 2    50   Input ~ 0
+col9
+Text GLabel 2475 5825 2    50   Input ~ 0
+col8
+Text GLabel 2475 5925 2    50   Input ~ 0
+col7
+Text GLabel 2475 4425 2    50   Input ~ 0
+col6
+Text GLabel 2475 4525 2    50   Input ~ 0
+col5
+Text GLabel 2475 4625 2    50   Input ~ 0
+col4
+Text GLabel 2475 4925 2    50   Input ~ 0
+col3
+Text GLabel 2475 5025 2    50   Input ~ 0
+col2
 $EndSCHEMATC
