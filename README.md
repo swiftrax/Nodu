@@ -1,4 +1,6 @@
 # Nodu
+## Supported layouts
+![Supported layouts of Nodu](https://github.com/swiftrax/Nodu/blob/main/Finished/Images/Layouts.jpg)
 60% keyboard based on Gondolindrim's Lasgweloth
 
 ## PCB Renders
