@@ -1,7 +1,9 @@
 # Nodu
+![3D Render](https://github.com/swiftrax/Nodu/blob/main/Finished/Images/Nodu.png)
+A 60% keyboard that fits most universal cases. PCB is based on Gondolindrim's Lasgweloth
+
 ## Supported layouts
 ![Supported layouts of Nodu](https://github.com/swiftrax/Nodu/blob/main/Finished/Images/Layouts.jpg)
-60% keyboard based on Gondolindrim's Lasgweloth
 
 ## PCB Renders
 **Top**
