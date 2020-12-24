@@ -1,17 +1,17 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.4)-1*
-G04 #@! TF.CreationDate,2020-12-13T17:41:52-08:00*
-G04 #@! TF.ProjectId,Flex60_Plate,466c6578-3630-45f5-906c-6174652e6b69,rev?*
+G04 #@! TF.CreationDate,2020-12-24T00:10:24-08:00*
+G04 #@! TF.ProjectId,Nodu_Plate,4e6f6475-5f50-46c6-9174-652e6b696361,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Copper,L1,Top*
 G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.1.4)-1) date 2020-12-13 17:41:52*
+G04 Created by KiCad (PCBNEW (5.1.4)-1) date 2020-12-24 00:10:24*
 %MOMM*%
 %LPD*%
 G04 APERTURE LIST*
 %ADD10C,0.800000*%
 G04 APERTURE END LIST*
 D10*
-X223850000Y-86900000D03*
+X52950000Y-79700000D03*
 M02*
