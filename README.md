@@ -32,4 +32,4 @@ Amount is per PCB, multiply as needed.
 
 ## License
 
-This repository is under the [GNU GPL V2 license](https://github.com/swiftrax/UnSplit/blob/master/LICENSE). If you plan to sell these pcbs, make sure to read it.
+This repository is under the [GNU GPL V2 license](https://github.com/swiftrax/Nodu/blob/main/LICENSE). If you plan to sell these pcbs, make sure to read it.
